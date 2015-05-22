@@ -1,0 +1,4 @@
+{
+  "extends": "ember",
+  "parser": "babel-eslint"
+}
